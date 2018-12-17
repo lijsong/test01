@@ -15,5 +15,7 @@ public class HelloWorld {
         System.out.println("你好");
 
         System.out.println("我好");
+
+        System.out.println("大家都好");
     }
 }
